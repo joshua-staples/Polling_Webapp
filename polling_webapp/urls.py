@@ -18,6 +18,7 @@ from django.urls import path
 
 from poll import views as poll_views
 
+# points to all of the view functions so that the page can be loaded from the HttpRequest
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', poll_views.home, name='home'),

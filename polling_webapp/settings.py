@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+# make sure the 'poll' and 'widget_tweaks' apps are installed in the project settings!
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
