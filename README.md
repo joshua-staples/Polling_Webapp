@@ -5,7 +5,7 @@ The web app I wrote is a polling app that displays polls for people to vote on, 
 All of the polling data is stored in the built in Django SQLite database using the django.db models function. A model is generally a set of information that is going to be saved into a database, and the model class automatically build the database from the input data. 
 The reason I wrote this web app is because I couldn't find a reliable free polling site online, so I figured I could make one, and also because the project scope seemed like something that could be done in the two week time frame that I worked within.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Nc87APAlSSM)
 
 # Web Pages
 
